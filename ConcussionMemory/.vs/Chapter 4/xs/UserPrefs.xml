@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{83EE6EBC-1252-C000-40FE-1899E3BD1B63}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CS_Scripts/SceneController.cs">
+    <Files>
+      <File FileName="Assets/CS_Scripts/SceneController.cs" Line="51" Column="5" />
+      <File FileName="Assets/CS_Scripts/MemoryCard.cs" Line="28" Column="34" />
+      <File FileName="Assets/CS_Scripts/UIButton.cs" Line="29" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
